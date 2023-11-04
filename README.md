@@ -1,6 +1,6 @@
 
 
-# Optimization of Agricultural Production
+# Advanced Techniques for Optimization of Agricultural Production
  This project is intended for Precision Farming. We will maximize productivity by understanding crop requirements for climatic and soil conditions. It will help us deal with the unpredictability of the weather. 
 ## Problem Statement
  We will build a predictive model so as to suggest the most suitable "crops" to grow based on the available climatic and soil conditions. 
