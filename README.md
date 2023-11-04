@@ -18,3 +18,9 @@
  * Humidity
 
  * Label - We have 22 unique crops.
+# Model Building
+* Exploratory Data Analysis (EDA)
+* Data Preprocessing
+* Attribute Selection
+* Model Selection
+* Model Evaluation
