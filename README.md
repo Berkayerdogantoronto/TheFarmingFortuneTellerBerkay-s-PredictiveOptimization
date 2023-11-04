@@ -12,9 +12,8 @@
 
 
 ## Problem Statement
- We will build a predictive model so as to suggest the most suitable "crops" to grow based on the available climatic and soil conditions. 
- Let's say there is a farmer Berkay in Toronto who only grows rice during the rainy season and keeps his land empty during the rest of the seasons now we can recommend some alternative crops to him that can
- be grown in that soil and weather conditions for other seasons such as summer and winter then it can help Berkay to properly utilize his land.
+ In the town of Toronto, farmer Berkay faced a common farming challenge – unpredictable weather. During the rainy season, he grew rice, but the rest of the year, his land lay unused. Then, Berkay embraced Precision Farming. With the help of a project, he learned to optimize crop selection using data. The project's predictive model guided him in choosing crops based on weather and soil conditions. As a result, Berkay's farm flourished. He grew rice during the rainy season and other crops the rest of the year, maximizing his land's potential. The impact was significant. Berkay's farm became more productive and efficient. He saved resources and opened new market opportunities. Berkay's success story inspired fellow farmers, leading to collective improvements in farming practices. In the end, Berkay's journey in Precision Farming became a beacon of hope for farmers, showing the way to a brighter future in agriculture.
+The end.
 # Agricultural Dataset Columns
 ## Soil Condition Requirements for Different Crops
  * N - Ratio of Nitrogen
