@@ -24,3 +24,4 @@
 * Attribute Selection
 * Model Selection
 * Model Evaluation
+* Real-Time Prediction
