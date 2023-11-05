@@ -1,6 +1,3 @@
-![Village](https://github.com/Berkayerdogantoronto/TheFarmingFortuneTellerBerkay-s-PredictiveOptimization/assets/141277627/c98d7b17-0a2f-4e60-8161-56f05f823eb6)
-
-
 
 # Advanced Techniques for Optimization of Agricultural Production
  This project, led by farmer Berkay, is dedicated to Precision Farming. He uses agricultural data to optimize agricultural productivity by understanding the specific needs of crops in varying weather and soil conditions. This approach helps Berkay and other farmers adapt to unpredictable weather, ensuring better crop yields.
@@ -35,3 +32,4 @@ The end.
 * Model Selection
 * Model Evaluation
 * Real-Time Prediction
+![Village](https://github.com/Berkayerdogantoronto/TheFarmingFortuneTellerBerkay-s-PredictiveOptimization/assets/141277627/c98d7b17-0a2f-4e60-8161-56f05f823eb6)
