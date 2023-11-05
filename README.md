@@ -1,4 +1,4 @@
-![Village](https://github.com/Berkayerdogantoronto/TheFarmingFortuneTellerBerkay-s-PredictiveOptimization/assets/141277627/c98d7b17-0a2f-4e60-8161-56f05f823eb6 =250x)
+![Village](https://github.com/Berkayerdogantoronto/TheFarmingFortuneTellerBerkay-s-PredictiveOptimization/assets/141277627/c98d7b17-0a2f-4e60-8161-56f05f823eb6)
 
 
 
